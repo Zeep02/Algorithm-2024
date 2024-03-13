@@ -1,2 +1,3 @@
 # Algorithm-2024
-### 202311423 Hyeon
+### | 학번 | 202311423 |
+### | 이름 | Yun DongHyeon |
