@@ -4,6 +4,7 @@
 |**이름**|**Yun DongHyeon**|
 <br/>
 |[1장 과제](https://github.com/Zeep02/Algorithm-2024/tree/1%EC%9E%A5-%EA%B3%BC%EC%A0%9C)|
+|:---|
 
 
 <p align="center"><br/><br/><br/>
