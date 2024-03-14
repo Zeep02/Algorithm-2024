@@ -1,7 +1,7 @@
 # Algorithm-2024
 **학번**|**202311423**
 :-----:|:-----
-|**이름**|**Yun DongHyeon**|  
+**이름**|**Yun DongHyeon**
 
 ### [1장 과제](https://github.com/Zeep02/Algorithm-2024/tree/1%EC%9E%A5-%EA%B3%BC%EC%A0%9C)
 
