@@ -30,4 +30,5 @@ divisor(a,lista)
 divisor(b,listb)
 max = gcd(lista,listb)
 
+print(f"A의 공약수: {lista}\nB의 공약수: {listb}")
 print(f"최대 공약수는 {max}입니다. ")
