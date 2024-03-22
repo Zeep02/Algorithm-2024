@@ -5,6 +5,7 @@ Que = deque()
 Que.append(0)
 Que.append(1)
 
+Q = []
 
 for i in range (11) :
     if i>=2 :
@@ -13,6 +14,8 @@ for i in range (11) :
         f = f1 + f2
         Que.appendleft(f2)  # 리스트의 맨 앞에 값을 입력함
         Que.append(f)       # 리스트의 맨 뒤에 값을 입력함
-        print(f"F{i}의 값: {f}")
+        Q.append(f)
     else :
-        print(f"F{i}의 값: {Que[i]}")
+        Q.append(i)
+
+print(f"F0~10의 값: {Q}")
